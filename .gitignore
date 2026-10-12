@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 向量库、日志、去重缓存(运行时生成,可重建)
+chroma_db/
+logs/
+md5.text
+
+# IDE
+.idea/
+
+# 前端 node_modules/dist 由 frontend/.gitignore 管理
